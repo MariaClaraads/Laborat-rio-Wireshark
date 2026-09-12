@@ -232,7 +232,6 @@ Também foi identificado o host:
 
 O método GET é utilizado para solicitar um recurso a um servidor.
 
-![HTTP](10-http.jpeg)
 
 ---
 
@@ -467,39 +466,7 @@ Alguns exemplos de análises futuras seriam:
 
 ---
 
-# 📌 24. Estrutura do projeto
-
-A estrutura planejada para o repositório é:
-
-*laboratorio-wireshark/*
-
-├── README.md
-
-└── imagens/
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 01-interface-wifi.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 02-captura-wifi.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 03-neverssl.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 04-trafego-capturado.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 05-filtro-http.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 06-pacote-43343.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 07-ethernet.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 08-ipv4.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── 09-tcp.jpeg
-
-&nbsp;&nbsp;&nbsp;&nbsp;└── 10-http.jpeg
-
----
-
-# 📁 25. Evidências
+# 📁 24. Evidências
 
 As imagens presentes neste repositório foram utilizadas como evidências da realização da atividade prática.
 
@@ -520,7 +487,7 @@ As evidências foram organizadas na pasta *imagens* para facilitar a consulta du
 
 ---
 
-# 🎓 26. Contexto da atividade
+# 🎓 25. Contexto da atividade
 
 Esta atividade foi desenvolvida como parte dos estudos relacionados a *Redes de Computadores e Cibersegurança*.
 
