@@ -76,7 +76,7 @@ Foi selecionada a interface *Wi-Fi* para iniciar a captura do tráfego.
 
 A partir desse momento, o Wireshark passou a registrar os pacotes que estavam sendo transmitidos e recebidos pela interface selecionada.
 
-![Interface Wi-Fi](imagens/01-interface-wifi.jpeg)
+![Interface Wi-Fi](01-interface-wifi.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ Durante esse processo, diversos pacotes foram registrados pelo Wireshark.
 
 A captura permitiu observar diferentes protocolos e tipos de comunicação presentes no tráfego de rede.
 
-![Captura de tráfego](imagens/02-captura-wifi.jpeg)
+![Captura de tráfego](02-captura-wifi.jpeg)
 
 ---
 
@@ -122,7 +122,7 @@ No pacote analisado foram identificadas as seguintes informações:
 | Recurso solicitado | /online |
 | Host | silverfunfreshlight.neverssl.com |
 
-![Pacote 43343](imagens/06-pacote-43343.jpeg)
+![Pacote 43343](06-pacote-43343.jpeg)
 
 ---
 
@@ -158,7 +158,7 @@ Nessa camada são encontrados os endereços físicos das interfaces de rede, rep
 
 Os endereços MAC são utilizados para identificar interfaces de rede dentro da comunicação Ethernet.
 
-![Ethernet II](imagens/07-ethernet.jpeg)
+![Ethernet II](07-ethernet.jpeg)
 
 ---
 
@@ -182,7 +182,7 @@ A comunicação pode ser representada como:
 
 *192.168.0.44 → 34.223.124.45*
 
-![IPv4](imagens/08-ipv4.jpeg)
+![IPv4](08-ipv4.jpeg)
 
 ---
 
@@ -208,7 +208,7 @@ A porta 80 é tradicionalmente utilizada pelo protocolo HTTP.
 
 O TCP fornece uma comunicação orientada à conexão entre os dispositivos.
 
-![TCP](imagens/09-tcp.jpeg)
+![TCP](09-tcp.jpeg)
 
 ---
 
@@ -232,7 +232,7 @@ Também foi identificado o host:
 
 O método GET é utilizado para solicitar um recurso a um servidor.
 
-![HTTP](imagens/10-http.jpeg)
+![HTTP](10-http.jpeg)
 
 ---
 
