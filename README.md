@@ -534,7 +534,7 @@ A experiência faz parte do meu processo de desenvolvimento profissional e da co
 
 ## 👩‍💻 Autora
 
-*Maria Clara Silveira*
+*Maria Clara*
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 💻 Analista de Suporte Técnico  
